@@ -10,11 +10,4 @@
 
 - ⏲ What we are doing now : i am writing code 🚀.
 
-<img src="walking-code.gif" width="auto">   ![muzafferugur's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzafferugur&theme=dark&show_icons=true)
-
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif)
-
-<p align="center"> 
-  Visitor count<br>
-   <img src="https://profile-counter.glitch.me/muzafferugur/count.svg" />
-</p>
+https://camo.githubusercontent.com/e8b2299c55c9803f069d41ea3a0c4bbb76178529a141b9dfe22e7483f4e0e429/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4d7568616d6d656453657263616e2f636f756e742e737667
