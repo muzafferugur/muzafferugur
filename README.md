@@ -1,4 +1,4 @@
-<h3 align="center"> Hi! Welcome to My Github Profile..Have Good Trip 👋 </h3>
+<h3 align="center"> This is the personal profile...well me!👋 </h3>
 
  <p align="center">
      <a href="https://git.io/typing-svg">
