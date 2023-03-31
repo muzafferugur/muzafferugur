@@ -4,6 +4,20 @@
      <a href="https://git.io/typing-svg">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Automation+Engineer!;MuzafferUgur" alt="Typing SVG" /></a>
   </p>
+                                                                                               
+                                                                                               
+                                                                                               
+ -![ApplanticCodeGIF](https://user-images.githubusercontent.com/111305287/229144935-e1a353f6-df4e-4b52-9ce4-122bcffd13ac.gif)
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+- 🔭 I’m Software Automation Engineer                                                                           
+- 🌱 I'm working on a project with framework TestNG and Cucumber
+- 🌱 I'm instructor on Selenium, SQL and GitGithub      
+- 💪 Fun fact: I love coding 💻
+- ⚡ writing blog 🖋️, football ⚽ and i like to play chess♟️.
+- ⏲ What we are doing now: i am writing code 🚀.
 
 
 
