@@ -1,3 +1,12 @@
+<h3 align="center"> Hi! Welcome to My Github Profile..Have Good Trip 👋 </h3>
+
+ <p align="center">
+     <a href="https://git.io/typing-svg">
+                <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Automation+Engineer!;MuzafferUgur" alt="Typing SVG" /></a>
+  </p>
+
+
+
 ### 🚀 Skills:
 
 [<img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
