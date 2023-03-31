@@ -1,7 +1,4 @@
 
-![profile-green-animate](https://user-images.githubusercontent.com/111305287/229135568-71c44b61-f51b-4ab6-81b7-ad353ab453f3.svg)
-
-
 
 
 
