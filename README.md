@@ -1,4 +1,4 @@
-<h3 align="center"> This is the personal profile...well me!👋 </h3>
+<h3 align="center"> Welcome to my GitHub profile where we share our codes to have fun and learn together..If our interests in the software world align, you can find some things you are looking for on my profile.👋 </h3>
 
  <p align="center">
      <a href="https://git.io/typing-svg">
