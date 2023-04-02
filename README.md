@@ -1,4 +1,10 @@
-<h3 align="center"> Welcome to my GitHub profile where we share our codes to have fun and learn together..If our interests in the software world align, you can find some things you are looking for on my profile.👋 </h3>
+<div align="center">
+ <h1> <img src="https://gprm.itsvg.in/logo.png" width="80px"><br/>Welcome to my GitHub profile where we share our codes to have fun and learn together.</h1>
+
+
+
+
+<h3 align="center"> -If our interests in the software world align, you can find some things you are looking for on my profile- </h3>
 
  <p align="center">
      <a href="https://git.io/typing-svg">
