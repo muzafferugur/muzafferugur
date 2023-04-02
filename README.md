@@ -6,10 +6,9 @@
 
 <h3 align="center"> -If our interests in the software world align, you can find some things you are looking for on my profile- </h3>
 
- <p align="center">
-     <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Automation+Engineer!;MuzafferUgur" alt="Typing SVG" /></a>
-  </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Automation%20Engineer;Muzaffer%20Ugur;&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+</p>
                                                                                                
                                                                                                
                                                                                                
@@ -72,3 +71,5 @@
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
+ 
+ 
