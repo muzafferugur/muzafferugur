@@ -69,6 +69,12 @@
   Visitor count<br>
    <img src="https://profile-counter.glitch.me/AliihsanSen/count.svg" />
 </p>
+ 
+ <h3 align="middle">Connect with me:</h3>
+<p align="middle">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/n%c3%bcge-ayd%c4%b1nlar-543b85207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n%c3%bcge-ayd%c4%b1nlar-543b85207/" height="30" width="40" /></a>
+<a href="https://instagram.com/nugethehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nugethehuman" height="30" width="40" /></a>
+</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
  
