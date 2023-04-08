@@ -32,7 +32,7 @@ graph TD;
     Skills-->HTML5;
     Skills-->SQL;
     Skills-->Cucumber;
-    Skills-->TestENG;
+    Skills-->TestNG;
     Skills-->PostgreSQL;
     Skills-->JSON;
     Skills-->Jenkins;
