@@ -24,25 +24,6 @@
 
 
 
- <--Full Stack Automation-->
-```mermaid
-graph TD;
-    Skills-->Java;
-    Skills-->Selenium;
-    Skills-->HTML5;
-    Skills-->SQL;
-    Skills-->Cucumber;
-    Skills-->TestNG;
-    Skills-->PostgreSQL;
-    Skills-->Jenkins;
-    Skills-->CSS3;
-    Skills-->Appium;
-    Skills-->Postman;
-    Skills-->GitHub;
-   ```
-
-
-
 [vsCode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
 [selenium]: https://www.selenium.dev/
@@ -81,6 +62,7 @@ graph TD;
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
  
  
+  
  
  
  
