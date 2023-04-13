@@ -59,7 +59,7 @@
 <a href="https://instagram.com/av.muzafferugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="av.muzafferugur" height="30" width="40" /></a>
 </p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
+
  
  
   
