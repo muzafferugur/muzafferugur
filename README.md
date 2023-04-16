@@ -15,7 +15,7 @@
  -![ApplanticCodeGIF](https://user-images.githubusercontent.com/111305287/229144935-e1a353f6-df4e-4b52-9ce4-122bcffd13ac.gif)
                                                                                                
                                                                                                
-                                                                                               
+                                                                                              
                                                                                                
 - 🔭 I’m Software Automation Engineer                                                                           
 - 🌱 I'm working on a project with framework TestNG and Cucumber
