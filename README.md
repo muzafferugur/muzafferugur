@@ -3,7 +3,6 @@
 
 
 
-
 <h3 align="center"> -If our interests in the software world align, you can find some things you are looking for on my profile- </h3>
 
 <p align="center">
