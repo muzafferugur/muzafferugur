@@ -22,6 +22,41 @@
 - ⏲ What we are doing now: i am writing code 🚀.
 
 
+###
+
+<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h2>
+
+###
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,github,api,postgresql,git,powershell,bash,linux,aws,cloudflare,docker&perline=6" />
+  </a>
+</p>
+
+###
+
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=muzafferugur" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=muzafferugur" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Github Streak Statistics</h2>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzafferugur&theme=dark" alt="muzafferugur" />
+</div>
+
+
+
 
 [vsCode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
