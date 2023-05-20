@@ -11,7 +11,9 @@
                                                                                                
                                                                                                
                                                                                                
- -![ApplanticCodeGIF](https://user-images.githubusercontent.com/111305287/229144935-e1a353f6-df4e-4b52-9ce4-122bcffd13ac.gif)
+ <img src="walking-code.gif" width="auto"> 
+
+![walking-code](https://github.com/muzafferugur/muzafferugur/assets/111305287/f59822e2-ba3b-459c-a46a-c23d7d5f4bea)
                                                                                                
                                                                                                
                                                                                               
@@ -77,12 +79,8 @@
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=purple)
 
 
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
+ 
+ 
   <p align="center"> 
   Visitor count<br>
    <img src="https://profile-counter.glitch.me/AliihsanSen/count.svg" />
