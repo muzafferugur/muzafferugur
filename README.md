@@ -33,8 +33,6 @@
 <p align="left">
  <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a>
- <! -- JavaScript -->
- <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="javascript" width="40" height="40"/> </a>
  <!-- Jira -->
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <!-- XRAY -->
