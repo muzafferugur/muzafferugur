@@ -1,7 +1,7 @@
 <div align="center">
  <h1> <img src="https://gprm.itsvg.in/logo.png" width="80px"><br/>Welcome to my GitHub profile where we share our codes to have fun and learn together.</h1>
 
-
+</a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="center"> -If our interests in the software world align, you can find some things you are looking for on my profile- </h3>
 
