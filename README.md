@@ -96,6 +96,8 @@
 <a href="https://instagram.com/av.muzafferugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="av.muzafferugur" height="30" width="40" /></a>
 </p>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
  
  
